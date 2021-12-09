@@ -56,7 +56,7 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
 
 
 * ##### Extra:
-    * Hyperparameters tuning results are available <a href-"https://docs.google.com/spreadsheets/d/1rPpaRXOe3NOMXFMaedRgq8juON-S6g6jF6AiNA_0vxw/edit?usp=sharing"> here </a>
+    * Hyperparameters tuning results are available <a href="https://docs.google.com/spreadsheets/d/1rPpaRXOe3NOMXFMaedRgq8juON-S6g6jF6AiNA_0vxw/edit?usp=sharing"> here </a>
     * To navigate the replication package click <a href="https://drive.google.com/drive/folders/1-9q0a0oyvMGlaaz1UJNlu9r6dG6BH2YK?usp=sharing">here</a> 
 
     
