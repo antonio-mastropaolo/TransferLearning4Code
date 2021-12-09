@@ -26,24 +26,22 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
     Here the link: https://cloud.google.com/storage/docs/quickstart-console
     Subsequently, by following the jupyter notebook we provide for pre-train and fine-tune the network, you should be able to set up the final environment.
 
-* ##### Datasets
+* ##### Datasets :paperclip:
 
     The datasets for the pre-training and the fine-tuning can be found
     <a href="https://drive.google.com/drive/folders/1AN9tc6rSmSNX2AqgAkTNyqW4ozCuhN9u?usp=sharing">here</a>
 
 
-* ##### Pre-trainig/Fine-tuning 
+* ##### Pre-trainig/Fine-tuning :computer:
     To pre-train and then, fine-tune T5, please use the script we provide here:
     - <a href ='https://github.com/antonio-mastropaolo/TransferLearning4Code/blob/main/Code/Pre-Training/Pre-Training.ipynb'>Pre-Training</a> 
     -  <a href ='https://github.com/antonio-mastropaolo/TransferLearning4Code/blob/main/Code/Fine-Tuning/Fine-Tuning.ipynb'>Fine-Tuning</a> 
 
-* ##### How to generate the predictions
+* ##### How to generate the predictions :chart_with_upwards_trend:
     First you need to convert the TF model into a pytorch model by using <a href='https://github.com/antonio-mastropaolo/T5-learning-ICSE_2021/blob/main/Code/Miscellaneous/tf_2_pytorch_T5.py'> TF_to_Pytorch </a>, then run <a href='https://github.com/antonio-mastropaolo/TransferLearning4Code/blob/main/Code/Run-on-test/Generate-Result.ipynb'> Generate Results </a>
 
 
-
-
-* ##### Models
+* ##### Models :bar_chart:
     * <a href="https://drive.google.com/drive/folders/1CRE809bsalIJRcdzd770pq5kSUiIr0jj?usp=sharing">No Pre-Training</a>
     * <a href="https://drive.google.com/drive/folders/1R23fXWC8YPz3SgLDp-BxcLXAQ1exh4Vh?usp=sharing">Pre-Training Single Task</a>
     * <a href="https://drive.google.com/drive/folders/15j7vlWKL3F40ac2acU2AxjFbAXnNKLjF?usp=sharing">Pre-Training Multi Task (Proportional Sampling)</a>
