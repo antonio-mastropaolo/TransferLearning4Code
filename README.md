@@ -50,7 +50,7 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
 * ##### Predictions:  :open_file_folder:  <a href="https://drive.google.com/drive/folders/1jXiYiqjc78QLz8si1KBTp6DfRmwmNzhz?usp=sharing"> Click Me! </a> 
 
 * ##### Additional: :clipboard:
-    Under <a href='https://drive.google.com/drive/folders/1K9RNuQBgyoCSenZz0ioNiD5YP9E1pf2S?usp=sharing'>Miscellaneous</a>, you can find the additional script used for computing the statistical tests, the complementary analysis and the bleu score.
+    Under <a href='https://drive.google.com/drive/folders/1K9RNuQBgyoCSenZz0ioNiD5YP9E1pf2S?usp=sharing'>Miscellaneous</a>, you can find the additional script used for computing the statistical tests, the complementary analysis, the overlap and data snooping analysis.
 
 
 * ##### Extra: :clipboard:
