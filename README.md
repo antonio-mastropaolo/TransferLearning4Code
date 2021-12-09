@@ -19,6 +19,7 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
     spm.SentencePieceTrainer.train('--input=pretraining.txt --model_prefix=dl4se --vocab_size=32000 --bos_id=-1  --eos_id=1 --unk_id=2 --pad_id=0') 
     ```
     The new SPmodel has to be trained on the entire pre-training corpus.
+    The tokenizer we trained is available <a href="https://drive.google.com/drive/folders/1-ihXMwst4GL6yuFYV3DZl_E1yWmoEdE8?usp=sharing">here</a>
 
 * ##### Set up a GCS Bucket
     To Set up a new GCS Bucket for training and fine-tuning a T5 Model, please follow the orignal guide provided by <a href='https://www.google.com'> Google </a>. 
@@ -55,7 +56,7 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
 
 
 * ##### Extra:
-    To navigate the replication package: <a href="https://drive.google.com/drive/folders/1-9q0a0oyvMGlaaz1UJNlu9r6dG6BH2YK?usp=sharing"> Here</a> 
+    To navigate the replication package click <a href="https://drive.google.com/drive/folders/1-9q0a0oyvMGlaaz1UJNlu9r6dG6BH2YK?usp=sharing">here</a> 
 
     
 
