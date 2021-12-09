@@ -14,7 +14,7 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
     *Pythonic way*
 
     ```
-    pip install sentencepiece
+    pip install sentencepiece==0.1.96
     import sentencepiece as spm
     spm.SentencePieceTrainer.train('--input=pretraining.txt --model_prefix=dl4se --vocab_size=32000 --bos_id=-1  --eos_id=1 --unk_id=2 --pad_id=0') 
     ```
@@ -56,7 +56,8 @@ In order to pre-train and then finetune a [T5 small](https://github.com/google-r
 
 
 * ##### Extra:
-    To navigate the replication package click <a href="https://drive.google.com/drive/folders/1-9q0a0oyvMGlaaz1UJNlu9r6dG6BH2YK?usp=sharing">here</a> 
+    * Hyperparameters tuning results are available <a href-"https://docs.google.com/spreadsheets/d/1rPpaRXOe3NOMXFMaedRgq8juON-S6g6jF6AiNA_0vxw/edit?usp=sharing"> here </a>
+    * To navigate the replication package click <a href="https://drive.google.com/drive/folders/1-9q0a0oyvMGlaaz1UJNlu9r6dG6BH2YK?usp=sharing">here</a> 
 
     
 
